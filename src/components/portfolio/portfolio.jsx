@@ -1,30 +1,30 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/panda_clip_3.jpg'
-import IMG2 from '../../assets/panda_clip_4.jpg'
-import IMG3 from '../../assets/panda_clip_5.jpg'
+import IMG1 from '../../assets/Netflix Clone (movie app).jpg'
+import IMG2 from '../../assets/Twitter Clone.jpg'
+import IMG3 from '../../assets/Lure - HackMerced VII.jpg'
 
 const projects = [
   {
     id: 1,
     image: IMG1,
-    title: 'Project 1',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'Flix - CodePath',
+    github: 'https://github.com/FlyinPandaa/CodePathUnit1',
+    demo: 'https://imgur.com/a/sCE278U'
   },
   {
     id: 1,
     image: IMG2,
-    title: 'Project 2',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'BluishBirds - CodePath',
+    github: 'https://github.com/FlyinPandaa/CodePath_Unit_3_4',
+    demo: 'https://imgur.com/a/gIsjto9'
   },
   {
     id: 1,
     image: IMG3,
-    title: 'Project 3',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'Lure - HackmercedVII',
+    github: 'https://github.com/HackmercedVII-Temp/zer0DayRepo',
+    demo: 'https://www.youtube.com/watch?v=8CSkBCdxgiM&t=36s'
   },
 
 ]

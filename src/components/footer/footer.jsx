@@ -26,7 +26,7 @@ const footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; PandaDev. All rights reserved.</small>
+        <small>&copy; Michael Fang. All rights reserved.</small>
         <br></br>
         <small><a href='https://www.freepik.com/vectors/panda'>Panda vector created by pch.vector - www.freepik.com</a></small>
       </div>

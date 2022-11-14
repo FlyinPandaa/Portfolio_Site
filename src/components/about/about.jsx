@@ -29,28 +29,29 @@ const about = () => {
             <article className="about__card">
               <FiUsers className="about__icon"/>
               <h5>Student</h5>
-              <small>COG SCI student</small>
+              <small>COGS student</small>
             </article>
 
             <article className="about__card">
               <VscLibrary className="about__icon"/>
               <h5>Projects</h5>
-              <small>Check out my Portfolio</small>
+              <small>Check out my Portfolio!</small>
             </article>
           </div>
           
           <p>
             Hello, my name is Michael, and I was born in Oakland, CA. Later on my parents moved to Sacramento, CA and I was raised in Sacramento. 
+            Some of my hobbies include: watching and listening to Korean entertainment (kpop and kdramas), playing video games, and watching YouTube videos.
             I'm a Cognitive Science student studying at UC Merced, and will be graduating in the year 2024. 
           </p>
-          <p>
+          {/* <p>
             Currently starting out my freelancing career as a front-end developer that specializes in developing e-Commerce sites. I'm actively 
             looking for opportunities to work with new clients to further develop my skills.
-          </p>
+          </p> */}
           <p>
-            This summer I told myself I'm going to learn as much as possible about web development, and to practice my data structure and algorithm skills. I managed to reach my goal that 
+            In the summer of 2022, I told myself I'm going to learn as much as possible about web development, and to practice my data structure and algorithm skills. I managed to reach my goal that 
             I set in June to complete a 65.5 hour course on Udemy called "The Complete 2022 Web Development Bootcamp" within a month. I went on to complete another course within a week called 
-            "Master the coding interview: Data structures + Algorithms". As of today, I realize how much I need to learn, and a long journey ahead to become a full-fledged front-end 
+            "Master the coding interview: Data structures + Algorithms". As of today, I realize how much I need to learn, and I have a long journey ahead to become a full-fledged full-stack 
             developer.
           </p>
 

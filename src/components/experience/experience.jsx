@@ -48,13 +48,6 @@ const experience = () => {
               {/* <small className="text-light">Intermediate</small> */}
             </div>
           </article>
-          <article className="experience__details">
-            <div className="experience__skill">
-              <BsFillBookmarkCheckFill className="experience__details-icon" />
-              <h4>Webflow</h4>
-              {/* <small className="text-light">Intermediate</small> */}
-            </div>
-          </article>
         </div>
       </div>
 
